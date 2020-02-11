@@ -1,3 +1,4 @@
+This is a list of technologies and tools that I have to learn before get a job:
 1. Git/Github
 2. Webpack
 3. CSS3, SCSS
