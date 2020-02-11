@@ -1,0 +1,7 @@
+1. Git/Github
+2. Webpack
+3. CSS3, SCSS
+4. HTML5
+5. JS
+6. React
+7. Redux
