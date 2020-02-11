@@ -5,3 +5,4 @@
 5. JS
 6. React
 7. Redux
+8. Firebase
